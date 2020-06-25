@@ -2,9 +2,9 @@
 
 **This is a personal project for a specific source**
 
-# Cost of Ops
+# About
 
-Get the average temperature of every day over a specific time period and calculate related costs.
+Get the average temperature of every day over a specific time period.
 
 # Data
 
